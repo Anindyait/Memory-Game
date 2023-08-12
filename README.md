@@ -11,7 +11,7 @@
 
 ## Gameplay
 
-[![GAMEPLAY](Pictures\yt.png)](http://www.youtube.com/watch?v=SJz7XdVEhyc "Flipper Gameplay")
+![GAMEPLAY](Pictures\yt.png)(http://www.youtube.com/watch?v=SJz7XdVEhyc "Flipper Gameplay")
 
 - Each image appears twice in the grid, you have to find every pair to win the game.
 
