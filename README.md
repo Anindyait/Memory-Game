@@ -11,7 +11,10 @@
 
 ## Gameplay
 
-![GAMEPLAY](Pictures\yt.png)(http://www.youtube.com/watch?v=SJz7XdVEhyc "Flipper Gameplay")
+
+https://github.com/Anindyait/Memory-Game/assets/91337664/4f580c62-d7f9-40a3-a504-014a7bdaffc1
+
+
 
 - Each image appears twice in the grid, you have to find every pair to win the game.
 
