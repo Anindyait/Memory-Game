@@ -10,6 +10,9 @@
 </div>
 
 ## Gameplay
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SJz7XdVEhyc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 - Each image appears twice in the grid, you have to find every pair to win the game.
 
 - The game has 2 modes, an easy 4x4 mode and a tough 6x6 mode.
