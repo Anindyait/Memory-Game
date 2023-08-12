@@ -11,7 +11,7 @@
 
 ## Gameplay
 
-[![GAMEPLAY](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=SJz7XdVEhyc "Flipper Gameplay")
+[![GAMEPLAY](Pictures\yt.png)](http://www.youtube.com/watch?v=SJz7XdVEhyc "Flipper Gameplay")
 
 - Each image appears twice in the grid, you have to find every pair to win the game.
 
@@ -23,10 +23,18 @@
 ![6x6 Grid](Pictures/6x6game.png)
 ![Success](Pictures/success.png)
 
-##Play
-
-Play on web - https://anindya5.itch.io/flipper
-
-
+## Use
+Clone the repo
+```sh
+git clone https://github.com/Anindyait Memory-Game
+``` 
+Open the repository using Unity
+Made using <b>Unity 2022.3.7f1</b>
+## Play
+- Play on web - https://anindya5.itch.io/flipper
+###
+- Download, unzip and play on Windows - <a href="https://github.com/Anindyait/Memory-Game/releases/download/Windows/Windows.zip">Windows Version</a>
+###
+- Download, unzip and play on Linux - <a href="https://github.com/Anindyait/Memory-Game/releases/download/Linux/Linux.zip">Linux Version</a>
 
 
