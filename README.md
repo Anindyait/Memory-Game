@@ -12,7 +12,10 @@
 ## Gameplay
 
 
-https://github.com/Anindyait/Memory-Game/assets/91337664/4f580c62-d7f9-40a3-a504-014a7bdaffc1
+
+
+https://github.com/Anindyait/Memory-Game/assets/91337664/4678dc74-9bef-4b13-aaa5-a8d9e5e28e4d
+
 
 
 
